@@ -26,17 +26,14 @@
               >
 
               <h2
-                class="mt-3.5 text-4xl font-medium tracking-normal text-gray-900 decoration-red-300 decoration-3 transition duration-300 ease-in-out group-hover:underline sm:mt-5 sm:text-5xl sm:leading-tight md:tracking-tight lg:text-6xl"
+                class="mt-3.5 text-4xl font-medium tracking-normal text-gray-900 decoration-red-300 decoration-3 transition duration-300 ease-in-out group-hover:underline sm:mt-5 sm:text-5xl sm:leading-tight md:tracking-tight lg:text-6xl dark:text-red-300"
               >
-                Apple to Turn IPhones Into Payment Terminals in Fintech Push
+                Android 15 is released to AOSP
               </h2>
 
               <div>
                 <p class="mt-4 text-base leading-loose text-gray-600">
-                  Apple Inc is introducing a new feature that will allow
-                  businesses to accept credit card and digital payments with just
-                  a tap on their iPhones, bypassing hardware systems such as Block
-                  Inc's Square terminals.
+                Today we're releasing Android 15 and making the source code available at the Android Open Source Project (AOSP). Android 15 will be available on supported Pixel devices in the coming weeks, as well as on select devices from Samsung, Honor, iQOO, Lenovo, Motorola, Nothing, OnePlus, Oppo, realme, Sharp, Sony, Tecno, vivo, and Xiaomi in the coming months.
                 </p>
               </div>
 
@@ -86,120 +83,36 @@
             class="prose mx-auto sm:prose-lg first-letter:text-4xl first-letter:font-bold first-letter:tracking-[.15em] prose-a:transition prose-a:duration-300 prose-a:ease-in-out hover:prose-a:text-red-700 dark:text-red-300 prose-img:rounded-xl"
           >
             <p>
-              Aliqua venenatis gravida et urna molestie leo adipiscing dolore leo
-              euismod quam. Aenean porta curabitur convallis pellentesque velit
-              platea at neque phasellus. Aliquet pellentesque senectus velit magna
-              ultrices iaculis justo habitasse vitae neque ornare nullam leo. Est
-              facilisis mauris purus senectus nunc convallis praesent pharetra
-              dictum dui molestie iaculis.
-            </p>
-            <h2>An awesome heading</h2>
+            Hello! I’m Sujal Karale, a second-year B.Tech student specializing in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning at Ramdeobaba College of Engineering and Management, Nagpur. With a strong passion for technology, I have been actively learning and building my skills in both Android and web development. Over time, I’ve gained hands-on experience with programming languages and tools such as HTML, CSS, JavaScript, Kotlin, Java, C, and Python, allowing me to create a variety of digital solutions. </p>
+            <h2 class="dark:text-red-300">My Moto</h2>
             <p>
-              Lorem ipsum dolor sit amet aliqua enim hac. Diam eros adipiscing
-              aliquam nisi do augue mattis sodales turpis lectus a. Curabitur
-              nullam sodales phasellus donec nec pharetra quisque. Nec mi congue
-              lobortis eget aliqua donec diam sollicitudin eu phasellus facilisi
-              dictumst. Venenatis volutpat mi sodales facilisi quisque pulvinar
-              luctus eros est malesuada risus porta sed id.
+            In web development, I enjoy crafting responsive, visually appealing websites that deliver a seamless user experience. My journey in Android development has enabled me to design mobile applications that balance intuitive user interfaces with powerful functionality.
             </p>
             <p>
-              Lorem ipsum dolor sit amet curabitur malesuada vel praesent magna
-              tincidunt.
+            I am committed to continuous learning, always exploring new technologies and trends in the industry. My focus on AI/ML gives me a unique perspective on integrating smart, innovative features into the projects I develop.
             </p>
             <figure>
               <img src="images/post-content-image.jpeg" />
               <figcaption>
-                Lorem ipsum dolor sit amet fringilla consectetur netus
-                ullamcorper.
+              Beyond coding, I also enjoy video editing, where I use InShot to create engaging and polished video content.
               </figcaption>
             </figure>
             <p>
-              Lorem ipsum dolor sit amet netus viverra neque quisque nisi mattis
-              dapibus dictumst. Erat venenatis iaculis a tellus a auctor cursus
-              morbi neque molestie incididunt faucibus.
+            I’m constantly learning and adapting to new technologies and trends in software development, driven by the desire to build innovative products that solve real-world problems. My academic background in AI/ML complements my development skills, giving me the ability to incorporate intelligent features into the solutions I build.
             </p>
-            <ul>
-              <li>
-                Urna magna mauris hendrerit molestie rhoncus enim magna tempor
-                nisi.
-              </li>
-              <li>Lorem ipsum dolor sit amet tempus bibendum dolore ida.</li>
-              <li>
-                Eget consectetur orci sodales purus ac egestas consequat erat
-                mattis mi sapien adipiscing hac.
-              </li>
-            </ul>
+            <h2 class="dark:text-red-300">My Motivation Source</h2>
+            <h3 class="dark:text-red-300">TED Talks</h3>
             <p>
-              Lorem ipsum dolor sit amet lobortis risus nisi lacus quisque
-              porttitor fermentum arcu adipiscing.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet <strong>bold text</strong> quam luctus
-              praesent id.Gravida donec morbi incididunt enim sed sollicitudin
-              malesuada tempus.
-            </p>
-            <h2>Another awesome heading</h2>
-            <h3>A Stacked heading</h3>
-            <p>
-              Lorem ipsum dolor sit amet dictumst in elit sagittis venenatis
-              senectus. Non nisi tortor enim pharetra rhoncus velit mauris arcu
-              senectus purus egestas urna sodales dolore. Egestas nisi turpis
-              hendrerit vivamus risus habitasse tincidunt in est enim egestas
-              dictumst sollicitudin.
+            TED Talks are short, powerful presentations (typically 18 minutes or less) delivered by experts, thought leaders, and innovators on a wide range of topics, including science, technology, education, design, business, and global issues. The term TED stands for Technology, Entertainment, and Design, which were the original areas of focus when TED was founded in 1984. However, TED Talks now cover a much broader spectrum of ideas.
             </p>
             <blockquote>
-              <p>
-                Lorem ipsum dolor sit pretium nullam diam facilisi. Lacus volutpat
-                malesuada fusce quis est integer euismod cras est suspendisse
-                facilisi morbi.
+              <p class="dark:text-red-300">
+              The goal of TED Talks is to spread ideas that can inspire and motivate people, challenge conventional thinking, and encourage learning and curiosity. These talks are often insightful and engaging, designed to reach a global audience through both live events and online platforms.
               </p>
             </blockquote>
             <p>
-              Lorem ipsum dolor sit amet quis at praesent erat. Egestas justo ut
-              tempus elementum aenean luctus <a href="#">an awesome link</a> fusce
-              curabitur at malesuada.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet fermentum eget porta. Semper auctor
-              tellus laoreet ut vulputate ullamcorper fringilla gravida dictum.
-              Malesuada arcu aliquet cras molestie viverra vulputate netus dolore
-              aliquam dictum ornare ullamcorper. Erat pretium bibendum dolore quis
-              dictum vivamus libero curabitur consequat donec. Netus rhoncus
-              adipiscing netus non urna egestas mattis mollis nullam odio diam
-              dolore aenean.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet quis habitasse rhoncus ac lobortis
-              sapien.
-            </p>
-            <ol>
-              <li>Lorem ipsum dolor sit amet volutpat bibendum iaculis.</li>
-              <li>
-                Tortor porttitor elit nibh laoreet consectetur sodales imperdiet
-                congue duis blandit tempor phasellus.
-              </li>
-              <li>
-                Enim porta tincidunt non do gravida habitasse hendrerit convallis.
-              </li>
-            </ol>
-            <p>
-              Lorem ipsum dolor sit amet interdum incididunt tortor euismod
-              porttitor. Pulvinar consequat semper urna arcu etiam facilisi
-              elementum aenean dictumst aliquet urna elementum facilisi. Labore
-              duis fusce facilisi justo aliqua dictum et suspendisse dui dictum
-              integer. Elementum scelerisque posuere eleifend fermentum tempus
-              mauris elit enim etiam massa ornare congue. Hac pretium elit aliquam
-              augue dolore duis leo congue fringilla condimentum semper pretium
-              incididunt.
-            </p>
-            <p>
-              Est mattis enim eleifend donec erat eget tristique. Dictum habitasse
-              duis elementum feugiat elit pretium nisl curabitur lacus risus.
-              Condimentum vivamus hac vestibulum mauris aliquet massa ultrices
-              molestie. Tempor ut blandit fermentum id nisi facilisi turpis non.
-              Eleifend duis aliqua eu dapibus lacus consequat quam pulvinar et
-              aliqua luctus fames feugiat.
-            </p>
+            <h3>"The Power of Vulnerability" – Brené Brown </h3>
+            Description: Brené Brown explores how embracing vulnerability can lead to deeper connections, courage, and authenticity. She emphasizes that vulnerability is at the core of meaningful human experiences, such as love, creativity, and empathy.
           </div>
 
           <!-- Post Footer -->
@@ -267,7 +180,7 @@
             <!-- Social Share Buttons -->
             <div class="py-8 sm:py-10">
               <div class="flex items-center justify-between">
-                <span class="text-lg font-medium text-gray-900"> Share </span>
+                <span class="text-lg font-medium text-gray-900 dark:text-red-300"> Share </span>
 
                 <!-- Social Links -->
                 <ul class="flex items-center space-x-3">
@@ -320,10 +233,9 @@
                     </div>
 
                     <p class="mt-2.5 text-base leading-loose text-gray-500">
-                      Lorem ipsum dolor sit amet mauris quis phasellus ornare dui
-                      lectus. Laoreet habitasse eiusmod nulla odio tortor neque
-                      diam convallis morbi dolore molestie tellus faucibus
-                      pharetra.
+                    Sujal Karale - Web and App Developer<br>
+
+I am Sujal Karale, a dedicated and passionate developer with a strong interest in both web and app development. I have a solid command over essential web technologies such as HTML, CSS, and JavaScript, which allows me to create dynamic and responsive websites. Additionally, my proficiency in Kotlin enables me to develop robust and efficient Android applications. I am committed to continuous learning and staying updated with the latest industry trends to deliver high-quality digital solutions.
                     </p>
 
                     <!-- Author Social Links -->

@@ -89,24 +89,32 @@
           <div
             class="prose dark:prose-invert mx-auto sm:prose-lg first-letter:text-4xl first-letter:font-bold first-letter:tracking-[.15em] prose-a:transition prose-a:duration-300 prose-a:ease-in-out hover:prose-a:text-red-700 prose-img:rounded-xl"
           >
-            <p>Ramdeobaba University (RBU) is a self financed University approved by Government of Maharashtra and University Grant Commission, New Delhi. It stands as a testament to a forty-year educational journey, rooted in the cultivation of human potential with a strong emphasis on universal values. Formerly known as Shri Ramdeobaba College of Engineering and Management (RCOEM), the university inherits a rich legacy from its predecessor.</p>
-
-
-            <p>Established in 1984 by the Shri Ramdeobaba Sarvajanik Samiti, Nagpur, under the visionary leadership of founding chairman Shri Banwarilal Purohit, currently serving as the Honourable Governor of Punjab and Administrator of Chandigarh, RCOEM saw a transformative era under the stewardship of Shri Satyanarayan Nuwal, CEO of Solar Group of Industries, recognized among India's top 100 CEOs. This leadership propelled RCOEM to national prominence, evident through its high NIRF ranking, A+ NAAC grade, Diamond Rating by QS I-Gauge, Innovative Campus Award, National Employability Award, and various other accolades.</p>
-
-            <p>Bolstered by a robust startup ecosystem and five Centers of Excellence in collaboration with industry giants like Tata Technologies and NVIDIA, RCOEM provided students with exposure to cutting-edge technologies. Its alumni, comprising unicorn founders and leaders in global organizations, further enriched its legacy.</p>
-
-
-            <p>In pursuit of broader progress, RCOEM has now evolved into Ramdeobaba University (RBU). Spanning 17 acres in Nagpur, Central India. RBU houses nine schools such as the School of Engineering Sciences, School of Electrical and Electronics Engineering, School of Computer Science and Engineering, School of Management, School of Humanities and Sciences, School of Innovation and Incubation, School of Indian Knowledge System (IKS), School of Languages, and School of Entrepreneurship. Offering a diverse array of undergraduate, postgraduate, Ph.D., diploma, certificate, and value-added courses, RBU blends modern and traditional knowledge systems.</p>
+            <p> <h2><b>Exploring the Latest in Technology</b></h2>
+            As a technology enthusiast and developer, I’m constantly on the lookout for new innovations and trends that shape the world of tech. Whether it’s advancements in Artificial Intelligence (AI), breakthroughs in Quantum Computing, or the rise of the Metaverse, I believe staying informed is key to personal and professional growth. Here’s why I make it a priority to keep myself updated with the latest changes in technology:
+            </p>
+            <p> <h2><b>Why I Stay Updated with Technology</b></h2>
+            The tech industry is evolving faster than ever before, with groundbreaking innovations emerging every day. As someone passionate about Android and web development, I find it crucial to stay ahead of these changes. Every new tool, programming language, or development in AI/ML opens up opportunities to improve my skills and create more efficient, innovative solutions. Whether it’s learning about new frameworks, understanding the future of 5G, or exploring the capabilities of edge computing, these advancements inspire me to push the boundaries of what’s possible in my projects.
+            <p><h2><b>Technologies I’m Currently Exploring
+            </b></h2>
+              <ul>
+                <li>Artificial Intelligence (AI) and Machine Learning (ML): AI is transforming everything from app development to user experiences. I’m particularly interested in how AI can be integrated into mobile applications to offer smarter, more intuitive solutions.</li>
+                <li>Quantum Computing: Though still in its early stages, quantum computing is on my radar. The ability to solve complex problems at speeds unimaginable by today’s standards is something that fascinates me.</li>
+                <li>Augmented Reality (AR) and Virtual Reality (VR): The rise of AR and VR is opening new possibilities in app design, particularly in creating immersive user experiences. I believe AR will play a huge role in shaping the future of mobile apps.</li>
+                <li>Blockchain and Web3: Decentralization through blockchain and the promise of Web3 is something I’m keeping a close eye on. The potential to create decentralized applications (dApps) and smart contracts could redefine how we build and interact with software in the near future.</li>
+            </ul>
+            </p>
+            <p><h2><b>My Vision for the Future</b></h2>
+            Technology isn’t just about staying updated—it’s about using that knowledge to build meaningful solutions. I’m committed to leveraging these advancements in my own projects, whether it’s developing an Android app or building dynamic web solutions. My ultimate goal is to work in a product-based company, where I can apply my skills and collaborate on innovative projects that truly make a difference.
+            </p>
 
             <figure>
                 <img src="{{ asset('images/dept-cseet.jpeg') }}" />
                 <figcaption>
-                  Department of Computer Science and Engineering and Emerging Technologies.
+                  Department of Computer Science and Engineering (Artificial Intelligence & Machine Learning).
                 </figcaption>
               </figure>
 
-            <p>RBU's distance education programs cater to regional needs, providing quality education and skill development for local industries. Collaborations with national and international institutions and industries enhance exposure to global technologies, equipping students to compete globally. Ramdeobaba University cultivates holistic growth and empowers students to spearhead global progress, merging contemporary and traditional knowledge systems within a dynamic learning milieu.</p>
+            <p> The purpose of Artificial Intelligence and Machine Learning (AI/ML) engineering is to develop systems that can learn from data, make predictions, and automate tasks to enhance efficiency and decision-making. AI/ML engineering focuses on creating algorithms and models that enable machines to interpret complex data, recognize patterns, and improve performance over time. By integrating AI/ML into various applications—such as healthcare, finance, and robotics—engineers aim to solve real-world problems, drive innovation, and enhance user experiences across multiple industries. </p>
 
           </div>
 
@@ -228,10 +236,8 @@
                     </div>
 
                     <p class="mt-2.5 text-base leading-loose text-gray-500 dark:text-gray-400">
-                      Lorem ipsum dolor sit amet mauris quis phasellus ornare dui
-                      lectus. Laoreet habitasse eiusmod nulla odio tortor neque
-                      diam convallis morbi dolore molestie tellus faucibus
-                      pharetra.
+                    Sujal Karale - Web and App Developer<br>
+                    I am Sujal Karale, a dedicated and passionate developer with a strong interest in both web and app development. I have a solid command over essential web technologies such as HTML, CSS, and JavaScript, which allows me to create dynamic and responsive websites. Additionally, my proficiency in Kotlin enables me to develop robust and efficient Android applications. I am committed to continuous learning and staying updated with the latest industry trends to deliver high-quality digital solutions.
                     </p>
 
                     <!-- Author Social Links -->
