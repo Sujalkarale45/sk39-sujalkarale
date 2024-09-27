@@ -86,14 +86,15 @@
 
         <!-- Additional Information -->
         <div class="mt-8">
-            <h3 class="text-xl font-bold dark:text-red-300">{{ __('Follow Us') }}</h3>
-            <div class="mt-4">
-                @foreach (config('info.sociallinks') as $link)
-                    <a href="{{ url($link['url']) }}" class="text-red-600 hover:text-red-500 transition duration-300">
-                        <x-dynamic-component :component="$link['name']" />
-                        <span>{{ $link['title'] }}</span>
-                    </a>
-                @endforeach
+        <div class="flex flex-col items-start space-y-4">
+    <h3 class="text-xl font-bold dark:text-red-300">{{ __('Follow Us') }}</h3>
+    <div class="flex space-x-4 mt-4">
+        @foreach (config('info.sociallinks') as $link)
+            <a href="{{ url($link['url']) }}" class="flex items-center text-red-600 hover:text-red-500 transition duration-300 space-x-2">
+                <x-dynamic-component :component="$link['name']" class="w-6 h-6" />
+                <span class="text-base">{{ $link['title'] }}</span>
+            </a>
+        @endforeach </div>
             </div>
         </div>
     </section>
