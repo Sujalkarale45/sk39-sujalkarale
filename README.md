@@ -29,10 +29,10 @@ Throughout the development process, **Tushar Joshi Sir** guided me through vario
 
 To run this project locally, follow these steps:
 
-cd prefix-name
-cp .env.example .env
-php artisan key:generate
-composer install
-npm install
-php artisan migrate
-npm run dev
+- **cd prefix-name**
+- **cp .env.example .env**
+- **php artisan key:generate**
+- **composer install**
+- **npm install**
+- **php artisan migrate**
+- **npm run dev**
